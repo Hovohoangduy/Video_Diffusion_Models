@@ -25,3 +25,4 @@ research paper: https://arxiv.org/pdf/2204.03458.pdf
 
 ## Kết quả sau 1530 epochs
 ![result](/assert/153.gif)
+- Do độ phức tạp của U-net 3D và thời gian huấn luyện lâu. Nên hình ảnh sinh ra vẫn còn mơ hồ, chưa rõ ràng.
